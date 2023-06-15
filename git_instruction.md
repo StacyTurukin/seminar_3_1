@@ -13,4 +13,8 @@ git config --global user.email "useremail"
 
 Чтобы посмотреть изменения:
 `git config --list`
-     
+
+## Инициализация Git
+Чтобы инициализировать git:
+`git init`
+   
