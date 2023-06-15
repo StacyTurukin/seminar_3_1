@@ -18,3 +18,7 @@ git config --global user.email "useremail"
 Чтобы инициализировать git:
 `git init`
    
+
+## Git status
+Выводит статус текущей ветки:
+`git status`
